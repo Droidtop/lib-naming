@@ -1,9 +1,9 @@
-# lib-naming
+# mytop-naming
 
 Shared code for droidtop, Pythia, Enginehost and droidtop-agent: titles, parts and versions from folder and file names, `compareLoose`, and version detection from a game's files (Ren'Py `config.version`, `package.json`).
 
-One of the shared libraries of Droidtop/tracker#867, in the split the owner approved on 2026-11-21
-(Droidtop/tracker#960, step 1.0). Where its code comes from: new; seeded from droidtop's GameNaming and GameTitleParser, the agent's folder rules and Pythia's onboarding and reconciliation rules.
+One of the shared libraries of mytop-project/tracker#867, in the split the owner approved on 2026-11-21
+(mytop-project/tracker#960, step 1.0). Where its code comes from: new; seeded from droidtop's GameNaming and GameTitleParser, the agent's folder rules and Pythia's onboarding and reconciliation rules.
 
 **Shared code with versions, not releases** (owner, 2026-11-21: "these libraries aren't standalone… They're shared
 code", then "we still make pinned versions, we just don't make releases. We can build them for testing and stuff, we
